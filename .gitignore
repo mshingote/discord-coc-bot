@@ -1,1 +1,6 @@
+#files
 /.env
+
+#folders
+__pycache__/
+.idea/
